@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/koostibor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/koostibor/" height="30" width="40" /></a>
 </p>
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BratoBlog&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=BratoBlog&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BratoBlog&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
